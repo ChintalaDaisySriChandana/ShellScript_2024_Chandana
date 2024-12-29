@@ -20,3 +20,4 @@ fi
 #done < $filename
 
 
+echo "hi"
